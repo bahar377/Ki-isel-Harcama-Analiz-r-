@@ -60,6 +60,4 @@ git init
 git add .
 git commit -m "Kişisel Harcama Analizörü projesi eklendi"
 git branch -M main
-# GitHub'da oluşturduğun boş deponun linkini buraya yapıştır
-git remote add origin https://github.com/KULLANICI_ADIN/REPO_ADIN.git
 git push -u origin main
