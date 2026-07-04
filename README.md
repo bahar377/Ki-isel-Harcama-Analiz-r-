@@ -56,8 +56,3 @@ if __name__ == "__main__":
             rapor_al()
         elif secim == '3':
             break
-git init
-git add .
-git commit -m "Kişisel Harcama Analizörü projesi eklendi"
-git branch -M main
-git push -u origin main
